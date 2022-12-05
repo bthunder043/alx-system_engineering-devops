@@ -1,1 +1,1 @@
-This repository contains all folders and files for the ALX shell basics project
+This repository contains all files and folders for the ALX Shell Projects. 
